@@ -1,5 +1,4 @@
 # curfew-ios
 Curfew iPhone Application
 
-- Using AutoLayout to support multiple screen sizes
-- Using CocoaPods for dependency management
+**TO DO: Use GitHub's repo "Wiki" feature to document app's design decisions and architecture.**
